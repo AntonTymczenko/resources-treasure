@@ -24,6 +24,15 @@
 
 [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 
+#### Eloquent JavaScript (3rd Edition)
+[Index](http://eloquentjavascript.net/3rd_edition/)
+
+[Part 1: Language](http://eloquentjavascript.net/3rd_edition/01_values.html)
+
+[Part 2: Browser](http://eloquentjavascript.net/3rd_edition/13_browser.html)
+
+[Part 3: Node](http://eloquentjavascript.net/3rd_edition/20_node.html)
+
 #### npm
 [Webpack learning academy](https://webpack.academy/)
 

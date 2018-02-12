@@ -1,6 +1,6 @@
-#Chingu Voyage-4 #resources-treasure
+# Chingu Voyage-4 #resources-treasure
 
-##Common
+## Common
 [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 
 [Learn Anything | Maps](https://learn-anything.xyz/)
@@ -9,18 +9,18 @@
 
 [Essential web-dev crouse | Upskill](https://upskillcourses.com/p/essential-web-developer-course)
 
-##JS
+## JS
 
-####npm
+#### npm
 [Webpack learning academy](https://webpack.academy/)
 
-####AJAX
+#### AJAX
 [Asynchronous JS Requests | Udacity Free Course](https://in.udacity.com/course/asynchronous-javascript-requests--ud109)
 
-####Functional programming
+#### Functional programming
 [a curated list of awesome functional programming code](https://github.com/stoeffel/awesome-fp-js)
 
-##Git
+## Git
 [Francesco Agnoletto. How to not f-up your local files with Git](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c)
 
 [Learn Git branching](https://learngitbranching.js.org/)
@@ -31,9 +31,9 @@
 
 [Git/GitHub guide | kbroman.org](http://kbroman.org/github_tutorial/)
 
-##CSS
+## CSS
 
-####CSS Grid
+#### CSS Grid
 [Learn CSS Grid for free | Scrimba.com](https://scrimba.com/g/gR8PTE)
 
 [A Complete Guide to Grid | CSS-Tricks](https://scrimba.com/g/gR8PTE)
@@ -43,5 +43,5 @@
 [Grid Garden | Game for learning CSS grid](http://cssgridgarden.com/)
 
 
-####Media queries, responsive design
+#### Media queries, responsive design
 [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)

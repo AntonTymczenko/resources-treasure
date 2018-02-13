@@ -33,6 +33,9 @@
 
 [Part 3: Node](http://eloquentjavascript.net/3rd_edition/20_node.html)
 
+#### JS online courses (paid)
+[JavaScript: Understanding the Weird Parts | Udemy](https://www.udemy.com/understand-javascript/)
+
 #### npm
 [Webpack learning academy](https://webpack.academy/)
 

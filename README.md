@@ -36,6 +36,9 @@
 #### JS online courses (paid)
 [JavaScript: Understanding the Weird Parts | Udemy](https://www.udemy.com/understand-javascript/)
 
+#### Node.js
+[Node.js best practices | The largest Node.JS best practices list.](https://github.com/i0natan/nodebestpractices)
+
 #### npm
 [Webpack learning academy](https://webpack.academy/)
 

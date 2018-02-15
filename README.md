@@ -35,6 +35,7 @@
 
 #### JS online courses (paid)
 [JavaScript: Understanding the Weird Parts | Udemy](https://www.udemy.com/understand-javascript/)
+[The Complete JavaScript Course: Build a Real-World Project by Jonas Schmedtmann | Udemy](https://www.udemy.com/the-complete-javascript-course/)
 
 #### Node.js
 [Node.js best practices | The largest Node.JS best practices list.](https://github.com/i0natan/nodebestpractices)

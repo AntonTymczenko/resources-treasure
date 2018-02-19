@@ -9,6 +9,13 @@
 
 [Essential web-dev crouse | Upskill](https://upskillcourses.com/p/essential-web-developer-course)
 
+#### Scrum/Agile
+
+[A Short Introduction to the Scrum Methodology | Jim Medlock](https://medium.com/chingu/a-short-introduction-to-the-scrum-methodology-7a23431b9f17)
+
+[Perfecting user stories into products](https://medium.com/the-agile-weekly/perfecting-user-stories-into-products-e895aec4a3bf)
+
+
 ## JS
 
 #### You don't know JavaScript (book series)

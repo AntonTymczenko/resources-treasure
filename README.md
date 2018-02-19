@@ -33,6 +33,11 @@
 
 [Part 3: Node](http://eloquentjavascript.net/3rd_edition/20_node.html)
 
+#### JS design patterns
+[Learning JavaScript Design Patterns | O'Reilly](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+[JavaScript Design Patterns | Udacity (free course)](https://eu.udacity.com/course/javascript-design-patterns--ud989)
+
 #### JS online courses (paid)
 [JavaScript: Understanding the Weird Parts by Anthony Alicea | Udemy](https://www.udemy.com/understand-javascript/)
 

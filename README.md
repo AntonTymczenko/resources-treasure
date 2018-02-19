@@ -73,6 +73,8 @@
 
 [Git/GitHub guide | kbroman.org](http://kbroman.org/github_tutorial/)
 
+[Git commit message style guide | Udacity](https://udacity.github.io/git-styleguide/)
+
 ## CSS
 
 #### CSS Grid

@@ -73,7 +73,11 @@
 
 [Git/GitHub guide | kbroman.org](http://kbroman.org/github_tutorial/)
 
+[Git Branch Naming Conventions](https://allenan.com/git-branch-naming-conventions/)
+
 [Git commit message style guide | Udacity](https://udacity.github.io/git-styleguide/)
+
+[Waffle.io Recommended Workflow Using Pull Requests & Automatic Work Tracking](https://help.waffle.io/automatic-work-tracking/auto-work-tracking-basics/recommended-workflow-using-pull-requests-automatic-work-tracking)
 
 ## CSS
 
